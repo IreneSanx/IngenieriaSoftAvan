@@ -10,6 +10,12 @@ con	capacidad	menor"	+
 }
 this.capacidad=capacidadInicial;
 }
+public	int	capacidad(){
+return	this.capacidad;
+}
+public	int	cantidad(){
+return	this.cantidad;
+}
 //		metodos
 1
 2
